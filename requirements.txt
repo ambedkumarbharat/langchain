@@ -1,0 +1,50 @@
+# LangChain core and integrations
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-groq
+langchain-google-genai
+langchain-huggingface
+langchain-openai
+langchain-openrouter
+langchain-mistralai
+langchain-experimental
+
+# Document loading, web loaders, and RAG parsing
+pypdf
+pymupdf
+python-docx
+beautifulsoup4
+html2text
+lxml
+requests
+feedparser
+arxiv
+wikipedia
+youtube-transcript-api
+
+# Embeddings, transformers, tokenizers, and Hugging Face models
+sentence-transformers
+transformers
+tokenizers
+tiktoken
+huggingface-hub
+accelerate
+safetensors
+
+# Vector stores and retrieval
+chromadb
+faiss-cpu
+rank-bm25
+
+# API and web UI
+fastapi
+uvicorn[standard]
+streamlit
+python-multipart
+websockets<17
+
+# Configuration and common data validation
+python-dotenv
+pydantic-settings
